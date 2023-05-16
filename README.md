@@ -33,7 +33,7 @@ This repository contains the projects developed during the IBM Data Science Prof
 
 ## Projects:
 
-### [Stock Market Data Analysis](https://github.com/ffidav33/IBM-Data-Science/tree/main/Analysing%20Historical%20Stock%20%26%20Revenue%20Data).
+### [Analysing Historical Stock & Revenue Data](https://github.com/ffidav33/IBM-Data-Science/tree/main/Analysing%20Historical%20Stock%20%26%20Revenue%20Data).
 
 Project developed during module 05/10 of the IBM Data Science Professional Certificate Specialization. During the course, subjects such as web scraping and libraries were reviewed, in addition to laboratories and activities, we ended with this project. The objective of the project was to collect data to later develop a dashboard. 
 
