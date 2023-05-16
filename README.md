@@ -28,3 +28,13 @@ This repository contains the projects developed during the IBM Data Science Prof
 08. [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization?specialization=ibm-data-science)
 09. [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science)
 10. [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science)
+
+---
+
+## Projects:
+
+### [Stock Market Data Analysis](https://github.com/ffidav33/IBM-Data-Science/tree/main/Analysing%20Historical%20Stock%20%26%20Revenue%20Data).
+
+Project developed during module 05/10 of the IBM Data Science Professional Certificate Specialization. During the course, subjects such as web scraping and libraries were reviewed, in addition to laboratories and activities, we ended with this project. The objective of the project was to collect data to later develop a dashboard. 
+
+For the development of the project the following libraries were used: pandas, requests, bs4, html5lib, lxml, plotly, bs4, BeautifulSoup, yfinance.
