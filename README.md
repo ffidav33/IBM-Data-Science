@@ -54,3 +54,9 @@ Project developed during module 07/10 of the course, the project scenario is: "Y
 For the development of the project the following libraries were used: pandas, matplotlib, numpy, seaborn and scikit-learn.
 
 ##
+
+### [US Domestic Airline Flights Performance Dashboard](https://github.com/ffidav33/IBM-Data-Science/tree/main/Airline%20Performance%20Dashboard).
+
+Project developed during module 08/10 of the course, the goal was to build a dashboard using an internal tool provided by IBM. The dashboard demonstrated US Domestic Airline Flights Performance and Yearly average flight delay statistics for a given year (2005 to 2020).
+
+##
