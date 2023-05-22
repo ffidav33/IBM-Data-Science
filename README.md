@@ -60,3 +60,9 @@ For the development of the project the following libraries were used: pandas, ma
 Project developed during module 08/10 of the course, the goal was to build a dashboard using an internal tool provided by IBM. The dashboard demonstrated US Domestic Airline Flights Performance and Yearly average flight delay statistics for a given year (2005 to 2020).
 
 ##
+
+### [Best Classifier Model](https://github.com/ffidav33/IBM-Data-Science/tree/main/Machine%20Learning%20with%20Python).
+
+Project developed during module 09/10 of the course, we used a dataset about past loans. The Loan_train.csv data set includes details of 346 customers whose loan are already paid off or defaulted. The goal was to practice all the classification algorithms taught in the course. 
+
+##
