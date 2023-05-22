@@ -38,3 +38,9 @@ This repository contains the projects developed during the IBM Data Science Prof
 Project developed during module 05/10 of the IBM Data Science Professional Certificate Specialization. During the course, subjects such as web scraping and libraries were reviewed, in addition to laboratories and activities, we ended with this project. The objective of the project was to collect data to later develop a dashboard. 
 
 For the development of the project the following libraries were used: pandas, requests, bs4, html5lib, lxml, plotly, bs4, BeautifulSoup, yfinance.
+
+##
+
+### [Analyzing Data Using SQL and Python](https://github.com/ffidav33/IBM-Data-Science/tree/main/Analysing%20Data%20Using%20SQL%20and%20Python).
+
+Project developed during module 06/10 of the IBM Data Science Professional Certificate Specialization. During the course, subjects such as Cloud Databases, Python Programming, Ipython, Relational Database Management System, SQL statements and etc., in addition to laboratories and activities, we ended with this project. The objective of the project was to create a table using IBM Db2 SQL, after filling the table with data from three CSV files about the city of Chicago, we performed an analysis using Python in a Jupyter Notebook.
